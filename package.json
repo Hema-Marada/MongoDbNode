@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "my-doc-node",
   "version": "0.0.0",
   "private": true,
@@ -16,4 +17,15 @@
     "mongoose": "^8.1.1",
     "morgan": "~1.9.1"
   }
+=======
+  "name": "my-app-doc-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+>>>>>>> 7c15f5285d3676db5d49ff26a197ef049e9e2e41
 }
